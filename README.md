@@ -1,7 +1,7 @@
 ### Semana Omini 11.0
-be-the-hero
+<h1 align="center">BE TO HERO</h1>
 
-<h1>Desenvovido por Edson Costa</h1>
+<h2 align="center">👨‍💻Desenvovido por Edson Costa</h2>
 
 ### 🛠 Tecnologias
 
@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Edson Costa 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Edson Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Edson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-edson.13.10.2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edson.13.10.2004@gmail.com)](mailto:edson.13.10.2004@gmail.com)
 
-/github/license/:user/:repo
+<img alt="GitHub" src="https://img.shields.io/github/license/ecsistem/semana?logo=edson&style=social">
